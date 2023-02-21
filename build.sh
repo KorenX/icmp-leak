@@ -1,0 +1,1 @@
+g++ src/* -Iinc -o server.bin
